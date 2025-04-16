@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/44175849/204558463-f798fee0-0d00-4f34-97be-f9c5507c2c28.png" alt="portfolio cover" width="100%" />
+  <img src="https://ibb.co.com/DPfYFYL1" alt="portfolio cover" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm [Your Name]</h1>
