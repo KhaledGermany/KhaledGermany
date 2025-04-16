@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co.com/DPfYFYL1" alt="portfolio cover" width="100%" />
+  <img src="https://i.postimg.cc/CLLvHCy0/Yellow-and-White-Geometric-Business-Facebook-Cover.png" alt="portfolio cover" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm [Your Name]</h1>
