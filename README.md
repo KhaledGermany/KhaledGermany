@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./cover.png" alt="portfolio cover" width="100%" />
+</p>
+
 <h1 align="center">👋 Hi, I'm [Your Name]</h1>
 <h3 align="center">Creative Technologist | AI Enthusiast | UI/UX Lover</h3>
 
@@ -52,14 +56,6 @@ I’m now applying for the **Master's in Digitale Medien** to dive deeper into f
 
 ---
 
-## 📸 Cover Photo
-
-<p align="center">
-  <img src="./cover.png" alt="portfolio cover" width="100%" />
-</p>
-
----
-
 ## 🌐 Find Me Online
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://your-portfolio-link.com)  
@@ -78,4 +74,3 @@ I’m now applying for the **Master's in Digitale Medien** to dive deeper into f
 > ✨ I believe in designing with purpose, coding with empathy, and exploring the future of digital creativity.
 
 ---
-
