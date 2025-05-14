@@ -9,13 +9,13 @@
 
 ## 🎯 Goal
 
-This repository showcases my **portfolio and projects** designed to support my application for the **Master's in Digital Mediea** at University of Bremen. It reflects my passion for the intersection of **design, code, artificial intelligence**, and **interactive storytelling**.
+This repository showcases my **portfolio and projects** designed to support my application for the **Master's in Digital Media** at University of Bremen. It reflects my passion for the intersection of **design, code, artificial intelligence**, and **interactive storytelling**.
 
 ---
 
 ## 🧠 About Me
 
-Hey! I’m Mohamma Khaled, a passionate creative technologist from Bangladesh. I hold a Bachelor’s degree in **[Your Degree]**, where I discovered my love for merging **technology with storytelling**. My work explores the synergy of **digital design, AI, and interactivity**—aiming to build experiences that are meaningful, functional, and beautifully crafted.
+Hey! I’m Mohamma Khaled, a passionate creative technologist from Bangladesh. I hold a Bachelor’s degree in **B.A (Honors) in English Language and Literature**, while compliting my bachelor I got interested in technologies and involved myself with online courses and completed my projects related to Artificial Intelligence and App development. My work explores the synergy of **digital design, AI, and interactivity**—aiming to build experiences that are meaningful, functional, and beautifully crafted.
 
 I’m now applying for the **Master's in Digital Media** to dive deeper into future-focused technologies and collaborate with like-minded creatives.
 
