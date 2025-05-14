@@ -15,7 +15,7 @@ This repository showcases my **portfolio and projects** designed to support my a
 
 ## 🧠 About Me
 
-Hey! I’m Mohamma Khaled, a passionate creative technologist from [Your Country]. I hold a Bachelor’s degree in **[Your Degree]**, where I discovered my love for merging **technology with storytelling**. My work explores the synergy of **digital design, AI, and interactivity**—aiming to build experiences that are meaningful, functional, and beautifully crafted.
+Hey! I’m Mohamma Khaled, a passionate creative technologist from Bangladesh. I hold a Bachelor’s degree in **[Your Degree]**, where I discovered my love for merging **technology with storytelling**. My work explores the synergy of **digital design, AI, and interactivity**—aiming to build experiences that are meaningful, functional, and beautifully crafted.
 
 I’m now applying for the **Master's in Digitale Medien** to dive deeper into future-focused technologies and collaborate with like-minded creatives.
 
