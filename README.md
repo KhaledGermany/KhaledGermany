@@ -2,14 +2,14 @@
   <img src="https://i.postimg.cc/CLLvHCy0/Yellow-and-White-Geometric-Business-Facebook-Cover.png" alt="portfolio cover" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm [Your Name]</h1>
+<h1 align="center">👋 Hi, I'm Mohamma Khaled</h1>
 <h3 align="center">Creative Technologist | AI Enthusiast | UI/UX Lover</h3>
 
 ---
 
 ## 🎯 Goal
 
-This repository showcases my **portfolio and projects** designed to support my application for the **Master's in Digitale Medien** at [University Name]. It reflects my passion for the intersection of **design, code, artificial intelligence**, and **interactive storytelling**.
+This repository showcases my **portfolio and projects** designed to support my application for the **Master's in Digital Mediea** at University of Bremen. It reflects my passion for the intersection of **design, code, artificial intelligence**, and **interactive storytelling**.
 
 ---
 
@@ -17,7 +17,7 @@ This repository showcases my **portfolio and projects** designed to support my a
 
 Hey! I’m Mohamma Khaled, a passionate creative technologist from Bangladesh. I hold a Bachelor’s degree in **[Your Degree]**, where I discovered my love for merging **technology with storytelling**. My work explores the synergy of **digital design, AI, and interactivity**—aiming to build experiences that are meaningful, functional, and beautifully crafted.
 
-I’m now applying for the **Master's in Digitale Medien** to dive deeper into future-focused technologies and collaborate with like-minded creatives.
+I’m now applying for the **Master's in Digital Media** to dive deeper into future-focused technologies and collaborate with like-minded creatives.
 
 ---
 
